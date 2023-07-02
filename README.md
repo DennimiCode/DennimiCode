@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DennimiCode
 - 👀 I’m interested in C# and desktop development
-- 🌱 I’m currently learning MAUI (Xamarin forms)
+- 🌱 I’m currently learning Avalonia UI
 - 💞️ I’m looking to collaborate on ☆*: .｡. o(≧▽≦)o .｡.:*☆
 - 📫 How to reach me ಥ_ಥ
 
