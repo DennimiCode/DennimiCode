@@ -1,32 +1,23 @@
 <h1 align="center">
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" />
   , call me @DennimiCode
 </h1>
 
 <h2 align="center">
   I
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="32" height="32">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="32" height="32" />
   Web dev, but desktop dev is
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f_200d_1f525/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f_200d_1f525/512.gif" alt="❤" width="32" height="32">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="32" height="32" />
 </h2>
 
 <h2 align="center">My current skills</p><p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,vue,js,ts,html,css,sass,vite,npm,nodejs,bun,docker,postgres,mongodb,neovim,vscode,postman,lua,powershell,bash,md,git,github,gitlab,windows,linux,mint,debian&perline=14" />
-  </a>
+
+![Skills](https://skills.syvixor.com/api/icons?i=go,gin,vue,js,ts,html,css,sass,vite,npm,nodejs,bun,grpc,docker,postgresql,mysql,oracle,sqlite,mongodb,neovim,visualstudiocode,goland,postman,lua,powershell,bash,markdown,git,github,gitlab,jira,confluence,linux,linuxmint,debian,ubuntu&perline=12)
+
 </h2>
 
 <h3 align="center">My previous skills</p><p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,maven,gradle,rider,idea" />
-  </a>
+
+![Skills](https://skills.syvixor.com/api/icons?i=csharp,dotnet,nuget,avaloniaui,winui,windowsappsdk,xamarin,xaml,java,maven,gradle,hibernate,junit4,junit5,visualstudio,rider,intellijidea,windows&perline=9)
+
 </h3>
